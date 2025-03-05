@@ -1,4 +1,4 @@
-<div align="center"> # FHW-Plotter </div>
+# FHW-Plotter 
 
 <div align="center">
   <img src="img/plotter.png" alt="si" />
