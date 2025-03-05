@@ -4,3 +4,6 @@ Los plotters son dispositivos de impresión que se utilizan principalmente para 
 
 Se utilizan para imprimir desde un plano hasta una fotografía de gran tamaño, pasando por cartelería publicitaria y rotulación de todo tipo.
 
+<div align="center">
+  <img src="img/plotter.gif" alt="si" />
+</div>
