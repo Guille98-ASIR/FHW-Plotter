@@ -16,5 +16,6 @@
 
 ## Referencias
 
-[DIGIPRESSYSTEM](https://digipressystem.com/que-es-un-ploter-utilidades-tipos-diferencias/)
+[Digipressystem](https://digipressystem.com/que-es-un-ploter-utilidades-tipos-diferencias/)
 
+[Mastoner](https://www.mastoner.com/blog/que-es-un-plotter-y-como-funciona/)
