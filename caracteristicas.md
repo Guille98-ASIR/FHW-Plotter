@@ -10,6 +10,8 @@ Diversos métodos de impresión: Dependiendo del tipo de plotter, puede emplear 
 
 Velocidad variable: Aunque son más lentos que las impresoras tradicionales, compensan con su calidad y precisión. 📏✨
 
-![plotter](/img/plotter2.jpg)
+<div align="center">
+  <img src="img/plotter2.jgp" alt="si" />
+</div>
 
 [Siguiente](tipos.md)
