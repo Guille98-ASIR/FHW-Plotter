@@ -27,3 +27,5 @@ El documento no se mueve. Se mantiene estático sobre una superficie plana y es 
 ### Plotter de tambor o rodillo
 
 En este tipo de plotters se enrolla el papel a un rodillo o tambor. Este gira, lo que permite que se dibuje la imagen a su paso.
+
+[Siguiente](ejemplos.md)
