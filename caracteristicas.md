@@ -1,6 +1,4 @@
-# Características
-
-⚙️ 2. Características principales
+# ⚙️ 2. Características principales
 
 Alta precisión: Permite imprimir líneas detalladas y exactas.
 
