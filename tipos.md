@@ -1,13 +1,22 @@
 ## 🔍 3. Tipos de plotter
+
 Existen diferentes tipos de plotter según su tecnología de impresión y uso específico:
 
-## Plotter de pluma ✏️: Utiliza un lápiz mecánico para trazar líneas sobre el material.
+## Plotter de pluma ✏️: 
 
-## Plotter de inyección de tinta 🖋️: Similar a una impresora de tinta convencional, pero de gran formato.
+Utiliza un lápiz mecánico para trazar líneas sobre el material.
 
-## Plotter de corte ✂️: Empleado en la industria del vinilo y serigrafía para recortar diseños en materiales adhesivos.
+## Plotter de inyección de tinta 🖋️: 
 
-## Plotter láser 🔥: Utiliza tecnología láser para realizar grabados o cortes en materiales rígidos como madera y acrílico.
+Similar a una impresora de tinta convencional, pero de gran formato.
+
+## Plotter de corte ✂️: 
+
+Empleado en la industria del vinilo y serigrafía para recortar diseños en materiales adhesivos.
+
+## Plotter láser 🔥: 
+
+Utiliza tecnología láser para realizar grabados o cortes en materiales rígidos como madera y acrílico.
 
 # Segun su diseño
 
