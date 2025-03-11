@@ -5,3 +5,5 @@ Un plotter es un dispositivo de impresión especializado utilizado para generar 
 <div align="center">
   <img src="img/plotter.gif" alt="si" />
 </div>
+
+[Siguiente](caracteristicas.md)
