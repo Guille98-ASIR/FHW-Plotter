@@ -1,5 +1,5 @@
 # 🏭 4. Ejemplos comerciales
-
+<p><strong>
 Algunos de los modelos más conocidos en el mercado incluyen:
 
 HP DesignJet 🖨️: Ideal para arquitectura y diseño gráfico.
@@ -13,5 +13,6 @@ Roland CAMM ✂️: Popular en el sector de rotulación y vinilos.
 
 Epson SureColor 🏞️: Especializado en impresión fotográfica de gran formato.
 [Plotter Epson](https://www.epson.es/es_ES/productos/impresoras/large-format/c/lfp)
+</strong></p>
 
-[Siguiente](conclusiones.md)
+[Conclusiones](conclusiones.md)
