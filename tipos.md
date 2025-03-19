@@ -1,5 +1,5 @@
 ## 🔍 3. Tipos de plotter
-
+<p><strong>
 Existen diferentes tipos de plotter según su tecnología de impresión y uso específico:
 
 ## Plotter de pluma ✏️: 
@@ -27,5 +27,6 @@ El documento no se mueve. Se mantiene estático sobre una superficie plana y es 
 ### Plotter de tambor o rodillo
 
 En este tipo de plotters se enrolla el papel a un rodillo o tambor. Este gira, lo que permite que se dibuje la imagen a su paso.
+</strong></p>
 
-[Siguiente](ejemplos.md)
+[Ejemplos](ejemplos.md)
